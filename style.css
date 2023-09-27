@@ -250,3 +250,8 @@ h4+img{
 .hero>h4,.hero>p{
   margin-left: 19px;
 }
+footer>img{
+  position: absolute;
+  right: 228px;
+  bottom: 26px;
+}

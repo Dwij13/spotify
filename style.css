@@ -81,6 +81,7 @@ footer>p{
   display: flex;
   padding-right: 0;
   width: 100vw;
+  position: absolute;
 }
 #drem{
   width: 65px;
@@ -231,6 +232,7 @@ h4+img{
   /* border: 1px blue solid; */
   margin-left: 1vw;
   margin-top: 2vh;
+  position: absolute;
 }
 .hero>img{
   margin-left: 15px;

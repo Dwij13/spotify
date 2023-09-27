@@ -34,6 +34,12 @@ font-family: 'Signika', sans-serif;
   margin-left:33px ;
   margin-right: 23px;
 }
+#home1{
+  background-color: #242424;
+  height: 42px;
+  width:  293px;
+  border-radius: 10px;
+}
 #home1,#home2,#home3{
   display: flex;
   align-items: center;
@@ -194,9 +200,9 @@ h4+img{
   margin-right: 15px;
 }
 .txt{
-  margin-top:18.5%;
+  margin-top:14.5%;
   margin-left: 10px;
-  font-size: 18px;
+  font-size: 16px;
 }
 #mnc{
   padding: 26px;

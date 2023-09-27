@@ -87,6 +87,7 @@ footer>p{
   padding-right: 0;
   width: 100vw;
   position: absolute;
+  z-index: 1;
 }
 #drem{
   width: 65px;
@@ -115,12 +116,13 @@ h4+p{
   padding-right: 0;
 }
 #main{
-  height: 87vh;
+  height: 90vh;
   width: 80vw;
   background-image: linear-gradient(#1F1F1F,black);
   position: absolute;
-  bottom: 120px;
+  bottom: 74px;
   left: 20%;
+  z-index: -1;
 }
 #top{
   /* border: 1px red solid; */
